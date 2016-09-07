@@ -14,7 +14,7 @@ A simple barchart with a total column created utilizing d3.
 2. Qlik Sense Desktop
 	* To install, copy all files in the .zip file to folder "C:\Users\[%Username%]\Documents\Qlik\Sense\Extensions\Bartotal"
 3. Qlik Sense Server
-	* See instructions [how to import an extension on Qlik Sense Server](http://help.qlik.com/sense/en-us/developer/#../Subsystems/Workbench/Content/BuildingExtensions/HowTos/deploy-extensions.htm)
+	* See instructions [how to import an extension on Qlik Sense Server](https://help.qlik.com/sense/en-us/developer/#../Subsystems/Extensions/Content/Howtos/deploy-extensions.htm)
 
 ## Configuration
 

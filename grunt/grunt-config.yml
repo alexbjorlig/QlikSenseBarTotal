@@ -76,4 +76,4 @@ jsSources:
 # after the questions in the Yeoman generator have been answered.
 # -------------------------------------------------------------------
 setup:
-  lessSupport: 
+  lessSupport:

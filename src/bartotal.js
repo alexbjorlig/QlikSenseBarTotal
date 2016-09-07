@@ -292,7 +292,9 @@ function ($, /*_,*/ initProps, props, extensionUtils, cssContent) {
 
           // The following function is a simple funcional map function
           // To return the total sum
-          var totalsum = data.reduce((sum, row) => sum + row.value, 0)
+          var totalsum = data.reduce(function(sum, row){
+            return sum + row.value
+          }, 0)
 
 
           /**************************
@@ -328,7 +330,9 @@ function ($, /*_,*/ initProps, props, extensionUtils, cssContent) {
 
           // The max value in the array is found using d3.max
           // as it ignores undefined values
-          var max = d3.max(data, d => d.sum) * 1.05;
+          var max = d3.max(data, function(d) {
+            return d.sum
+          }) * 1.05;
 
           // Min is set to 0
           var min = 0;

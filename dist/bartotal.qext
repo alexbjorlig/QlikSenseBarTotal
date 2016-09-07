@@ -1,0 +1,9 @@
+{
+	"name" : "Bartotal",
+	"description" : "Barchart with total column",
+	"icon" : "",
+	"type" : "visualization",
+	"version": "0.0.1",
+	"preview" : "bartotal.png",
+	"author": "Alex Bjørlig"
+}
