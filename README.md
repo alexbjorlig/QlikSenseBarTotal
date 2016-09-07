@@ -2,8 +2,11 @@
 > Barchart with total column
 
 ## Purpose and Description
+A simple barchart with a total column created utilizing d3.
 
 ## Screenshots
+
+![Alt text](/src/lib/images/bartotal_1.PNG?raw=true "Bartotal")
 
 ## Installation
 
@@ -27,8 +30,8 @@ I cannot guarantee that I will merge all PRs but I will evaluate them all.
 ## Author
 
 **Alex Bjørlig**
-* http://www.yourwebsite.com
-* http://github.com/yourname
+* https://twitter.com/DauleDK
+* http://github.com/dauledk
 
 
 ## Change Log
@@ -39,7 +42,3 @@ See [CHANGELOG](CHANGELOG.yml)
 The software is made available "AS IS" without any warranty of any kind under the MIT License (MIT).
 
 See [Additional license information for this solution.](LICENSE.md)
-
-
-
-
