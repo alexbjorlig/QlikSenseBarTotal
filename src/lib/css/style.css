@@ -1,0 +1,28 @@
+/* Styles for Bartotal */
+
+/* Recommended pattern for styling your objects */
+
+/*
+.qv-object-bartotal .hello-world {
+  color:#333;
+  font-weight:bold;
+}
+*/
+
+.qv-object-bartotal .rect {
+    border: solid 1px #ccc;
+    shape-rendering: crispEdges;
+    opacity: 1;
+}
+
+.qv-object-bartotal .rect .active {
+    opacity: 1;
+}
+
+.qv-object-bartotal .axis path,
+
+.qv-object-bartotal .axis line {
+    fill: none;
+    stroke: #ccc;
+    shape-rendering: crispEdges;
+}
